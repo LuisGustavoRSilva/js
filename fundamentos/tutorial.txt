@@ -1,0 +1,36 @@
+JAVa script
+
+- A linuagem Java Script é case sensive ( faz diferença entre letras maiusculas e minusculas)
+
+- No java script o ; é opcional
+
+- Você pode usar ' ou " pois não tem diferença, só não podendo misturar os dois, porém, normalmente o uso de " é para textos 
+e o uso de ' é utilizado para importação de bibliotecas. no entanto, não há difeença nenhuma
+
+Para criar uma constante usamos connt
+para criar uma variavel podemos usar var ou let
+var (Obsoleto e inseguro)
+usar sempre o let
+
+concatenação (União com textos e variaveis)
++ (sempre evitar)
+usar crave ` (forma moderna e segura)
+`texto ${variavel}`
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+Podemos utilizar o html no java script de duas formas
+
+1) usando a tag script
+2) criando um documento js e linkando com o html usando a tag link src="script.js"
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+NODE - Plataforma q permite executar o java script fora do navegador internet
+
+Comando NODE
+
+nove -v (verificar versão do nome)
+nome arquivo.js (executa o java script)
+
